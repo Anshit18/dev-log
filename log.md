@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-06-14] #2130 — [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 82.5%  
+**Tags:** `Linked List` `Two Pointers` `Stack`
+
+---
 ## [2026-06-13] #3838 — [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 89.8%  
