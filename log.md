@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-06-16] #3612 — [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 69.7%  
+**Tags:** `String` `Simulation`
+
+---
 ## [2026-06-15] #2095 — [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 60.4%  
