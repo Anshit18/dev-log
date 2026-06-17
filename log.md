@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-06-17] #3614 — [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 31.9%  
+**Tags:** `String` `Simulation`
+
+---
 ## [2026-06-16] #3612 — [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 69.7%  
