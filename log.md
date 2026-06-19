@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-06-19] #1732 — [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 84.3%  
+**Tags:** `Array` `Prefix Sum`
+
+---
 ## [2026-06-18] #1344 — [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 67.5%  
