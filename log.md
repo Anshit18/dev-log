@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-06-20] #1840 — [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 58.3%  
+**Tags:** `Array` `Math` `Sorting`
+
+---
 ## [2026-06-19] #1732 — [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 84.3%  
