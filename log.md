@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-06-21] #1833 — [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 76.1%  
+**Tags:** `Array` `Greedy` `Sorting` `Counting Sort`
+
+---
 ## [2026-06-20] #1840 — [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 58.3%  
