@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-06-22] #1189 — [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 62.5%  
+**Tags:** `Hash Table` `String` `Counting`
+
+---
 ## [2026-06-21] #1833 — [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 76.1%  
