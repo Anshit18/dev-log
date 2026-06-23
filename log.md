@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-06-23] #3699 — [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 45.2%  
+**Tags:** `Dynamic Programming` `Prefix Sum`
+
+---
 ## [2026-06-22] #1189 — [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 62.5%  
