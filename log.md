@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-06-24] #3700 — [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 63.3%  
+**Tags:** `Math` `Dynamic Programming`
+
+---
 ## [2026-06-23] #3699 — [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 45.2%  
