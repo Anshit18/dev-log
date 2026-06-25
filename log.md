@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-06-25] #3737 — [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 72.9%  
+**Tags:** `Array` `Hash Table` `Divide and Conquer` `Segment Tree` `Merge Sort` `Counting` `Prefix Sum`
+
+---
 ## [2026-06-24] #3700 — [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 63.3%  
