@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-06-26] #3739 — [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 61.2%  
+**Tags:** `Array` `Hash Table` `Divide and Conquer` `Segment Tree` `Merge Sort` `Prefix Sum`
+
+---
 ## [2026-06-25] #3737 — [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 72.9%  
