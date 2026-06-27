@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-06-27] #3020 — [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 35.5%  
+**Tags:** `Array` `Hash Table` `Enumeration`
+
+---
 ## [2026-06-26] #3739 — [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 61.2%  
