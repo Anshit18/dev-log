@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-06-28] #1846 — [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 67.4%  
+**Tags:** `Array` `Greedy` `Sorting`
+
+---
 ## [2026-06-27] #3020 — [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 35.5%  
