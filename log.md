@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-06-29] #1967 — [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 85.2%  
+**Tags:** `Array` `String`
+
+---
 ## [2026-06-28] #1846 — [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 67.4%  
