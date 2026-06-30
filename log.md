@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-06-30] #1358 — [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 74.0%  
+**Tags:** `Hash Table` `String` `Sliding Window`
+
+---
 ## [2026-06-29] #1967 — [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 85.2%  
