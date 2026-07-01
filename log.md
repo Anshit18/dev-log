@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-01] #2812 — [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 52.5%  
+**Tags:** `Array` `Binary Search` `Breadth-First Search` `Union-Find` `Heap (Priority Queue)` `Matrix`
+
+---
 ## [2026-06-30] #1358 — [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 74.0%  
