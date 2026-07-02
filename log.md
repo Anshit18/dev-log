@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-02] #3286 — [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 45.8%  
+**Tags:** `Array` `Breadth-First Search` `Graph Theory` `Heap (Priority Queue)` `Matrix` `Shortest Path`
+
+---
 ## [2026-07-01] #2812 — [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 52.5%  
