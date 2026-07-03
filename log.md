@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-03] #3620 — [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 42.5%  
+**Tags:** `Array` `Binary Search` `Dynamic Programming` `Graph Theory` `Topological Sort` `Heap (Priority Queue)` `Shortest Path`
+
+---
 ## [2026-07-02] #3286 — [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 45.8%  
