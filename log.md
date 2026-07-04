@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-04] #2492 — [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 62.3%  
+**Tags:** `Depth-First Search` `Breadth-First Search` `Union-Find` `Graph Theory`
+
+---
 ## [2026-07-03] #3620 — [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 42.5%  
