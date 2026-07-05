@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-05] #1301 — [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 55.7%  
+**Tags:** `Array` `Dynamic Programming` `Matrix`
+
+---
 ## [2026-07-04] #2492 — [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 62.3%  
