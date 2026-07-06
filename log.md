@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-06] #1288 — [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 57.9%  
+**Tags:** `Array` `Sorting`
+
+---
 ## [2026-07-05] #1301 — [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 55.7%  
