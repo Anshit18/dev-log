@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-07] #3754 — [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 63.9%  
+**Tags:** `Math`
+
+---
 ## [2026-07-06] #1288 — [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 57.9%  
