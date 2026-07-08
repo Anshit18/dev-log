@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-08] #3756 — [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 36.1%  
+**Tags:** `Math` `String` `Prefix Sum`
+
+---
 ## [2026-07-07] #3754 — [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 63.9%  
