@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-09] #3532 — [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 66.2%  
+**Tags:** `Array` `Hash Table` `Binary Search` `Union-Find` `Graph Theory`
+
+---
 ## [2026-07-08] #3756 — [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 36.1%  
