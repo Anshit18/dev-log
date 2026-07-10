@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-10] #3534 — [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 54.5%  
+**Tags:** `Array` `Two Pointers` `Binary Search` `Dynamic Programming` `Greedy` `Bit Manipulation` `Graph Theory` `Sorting`
+
+---
 ## [2026-07-09] #3532 — [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 66.2%  
