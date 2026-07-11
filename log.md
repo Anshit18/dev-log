@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-11] #2685 — [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 79.1%  
+**Tags:** `Depth-First Search` `Breadth-First Search` `Union-Find` `Graph Theory`
+
+---
 ## [2026-07-10] #3534 — [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 54.5%  
