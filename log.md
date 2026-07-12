@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-12] #1331 — [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 72.3%  
+**Tags:** `Array` `Hash Table` `Sorting`
+
+---
 ## [2026-07-11] #2685 — [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 79.1%  
