@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-13] #1291 — [Sequential Digits](https://leetcode.com/problems/sequential-digits/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 67.0%  
+**Tags:** `Enumeration`
+
+---
 ## [2026-07-12] #1331 — [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 72.3%  
