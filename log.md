@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-14] #3336 — [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 56.7%  
+**Tags:** `Array` `Math` `Dynamic Programming` `Number Theory`
+
+---
 ## [2026-07-13] #1291 — [Sequential Digits](https://leetcode.com/problems/sequential-digits/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 67.0%  
