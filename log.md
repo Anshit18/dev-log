@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-15] #3658 — [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 88.3%  
+**Tags:** `Math` `Number Theory`
+
+---
 ## [2026-07-14] #3336 — [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 56.7%  
