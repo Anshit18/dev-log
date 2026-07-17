@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-17] #3312 — [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 45.2%  
+**Tags:** `Array` `Hash Table` `Math` `Binary Search` `Combinatorics` `Counting` `Number Theory` `Prefix Sum`
+
+---
 ## [2026-07-16] #3867 — [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 72.8%  
