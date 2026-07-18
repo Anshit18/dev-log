@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-18] #1979 — [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 82.0%  
+**Tags:** `Array` `Math` `Number Theory`
+
+---
 ## [2026-07-17] #3312 — [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 45.2%  
