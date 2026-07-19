@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-19] #1081 — [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 66.8%  
+**Tags:** `String` `Stack` `Greedy` `Monotonic Stack`
+
+---
 ## [2026-07-18] #1979 — [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 82.0%  
