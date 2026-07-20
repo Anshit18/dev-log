@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-20] #1260 — [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 71.3%  
+**Tags:** `Array` `Matrix` `Simulation`
+
+---
 ## [2026-07-19] #1081 — [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 66.8%  
