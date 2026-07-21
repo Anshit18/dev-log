@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-21] #3499 — [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 50.7%  
+**Tags:** `String` `Enumeration`
+
+---
 ## [2026-07-20] #1260 — [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 71.3%  
