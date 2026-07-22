@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-22] #3501 — [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 58.1%  
+**Tags:** `Array` `String` `Binary Search` `Segment Tree`
+
+---
 ## [2026-07-21] #3499 — [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 50.7%  
