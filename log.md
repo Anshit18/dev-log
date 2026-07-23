@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-23] #3513 — [Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 45.3%  
+**Tags:** `Array` `Math` `Bit Manipulation`
+
+---
 ## [2026-07-22] #3501 — [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 58.1%  
