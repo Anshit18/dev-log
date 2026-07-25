@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-25] #3536 — [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 73.9%  
+**Tags:** `Math` `Sorting`
+
+---
 ## [2026-07-24] #3514 — [Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 46.1%  
