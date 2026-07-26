@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-26] #628 — [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 46.9%  
+**Tags:** `Array` `Math` `Sorting`
+
+---
 ## [2026-07-25] #3536 — [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 73.9%  
