@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-27] #1464 — [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 84.4%  
+**Tags:** `Array` `Sorting` `Heap (Priority Queue)`
+
+---
 ## [2026-07-26] #628 — [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 46.9%  
