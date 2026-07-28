@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-28] #3517 — [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 71.1%  
+**Tags:** `String` `Sorting` `Counting Sort`
+
+---
 ## [2026-07-27] #1464 — [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 84.4%  
