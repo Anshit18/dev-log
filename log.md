@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-07-30] #3014 — [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 73.4%  
+**Tags:** `Math` `String` `Greedy`
+
+---
 ## [2026-07-29] #3518 — [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 33.7%  
