@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-01] #486 — [Predict the Winner](https://leetcode.com/problems/predict-the-winner/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 57.6%  
+**Tags:** `Array` `Math` `Dynamic Programming` `Recursion` `Game Theory`
+
+---
 ## [2026-07-31] #3016 — [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 81.9%  
