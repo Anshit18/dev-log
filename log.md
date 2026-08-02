@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-02] #877 — [Stone Game](https://leetcode.com/problems/stone-game/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 74.7%  
+**Tags:** `Array` `Math` `Dynamic Programming` `Game Theory`
+
+---
 ## [2026-08-01] #486 — [Predict the Winner](https://leetcode.com/problems/predict-the-winner/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 57.6%  
