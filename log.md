@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-03] #1406 — [Stone Game III](https://leetcode.com/problems/stone-game-iii/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 65.3%  
+**Tags:** `Array` `Math` `Dynamic Programming` `Minimax` `Game Theory` `Zero-Sum Game`
+
+---
 ## [2026-08-02] #877 — [Stone Game](https://leetcode.com/problems/stone-game/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 74.7%  
