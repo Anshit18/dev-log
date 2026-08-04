@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-04] #3731 — [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 87.3%  
+**Tags:** `Array` `Hash Table` `Sorting`
+
+---
 ## [2026-08-03] #1406 — [Stone Game III](https://leetcode.com/problems/stone-game-iii/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 65.3%  
