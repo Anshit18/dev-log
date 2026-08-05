@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-05] #3310 — [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 62.9%  
+**Tags:** `Depth-First Search` `Breadth-First Search` `Graph Theory`
+
+---
 ## [2026-08-04] #3731 — [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 87.3%  
