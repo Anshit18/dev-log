@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-06] #3345 — [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 70.8%  
+**Tags:** `Math` `Enumeration`
+
+---
 ## [2026-08-05] #3310 — [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 62.9%  
