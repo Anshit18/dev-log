@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-07] #3348 — [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 33.9%  
+**Tags:** `Math` `String` `Backtracking` `Greedy` `Number Theory`
+
+---
 ## [2026-08-06] #3345 — [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 70.8%  
