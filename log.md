@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-08] #3302 — [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 41.8%  
+**Tags:** `Two Pointers` `String` `Dynamic Programming` `Greedy`
+
+---
 ## [2026-08-07] #3348 — [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 33.9%  
