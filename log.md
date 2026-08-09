@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-09] #1140 — [Stone Game II](https://leetcode.com/problems/stone-game-ii/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 73.8%  
+**Tags:** `Array` `Math` `Dynamic Programming` `Minimax` `Prefix Sum` `Game Theory` `Zero-Sum Game`
+
+---
 ## [2026-08-08] #3302 — [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 41.8%  
