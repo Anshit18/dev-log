@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-10] #1510 — [Stone Game IV](https://leetcode.com/problems/stone-game-iv/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 62.1%  
+**Tags:** `Math` `Dynamic Programming` `Minimax` `Game Theory` `Nim Game` `Sprague–Grundy Theorem` `Zero-Sum Game`
+
+---
 ## [2026-08-09] #1140 — [Stone Game II](https://leetcode.com/problems/stone-game-ii/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 73.8%  
