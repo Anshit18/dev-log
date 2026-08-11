@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-11] #2996 — [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 42.9%  
+**Tags:** `Array` `Hash Table` `Sorting`
+
+---
 ## [2026-08-10] #1510 — [Stone Game IV](https://leetcode.com/problems/stone-game-iv/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 62.1%  
