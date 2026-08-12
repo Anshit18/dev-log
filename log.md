@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-12] #2958 — [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 58.4%  
+**Tags:** `Array` `Hash Table` `Sliding Window`
+
+---
 ## [2026-08-11] #2996 — [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 42.9%  
