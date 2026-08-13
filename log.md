@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-13] #2213 — [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 54.0%  
+**Tags:** `Array` `String` `Segment Tree` `Ordered Set`
+
+---
 ## [2026-08-12] #2958 — [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 58.4%  
