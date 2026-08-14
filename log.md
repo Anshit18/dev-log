@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-14] #3090 — [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 72.7%  
+**Tags:** `Hash Table` `String` `Sliding Window`
+
+---
 ## [2026-08-13] #2213 — [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 54.0%  
