@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-15] #3702 — [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 46.4%  
+**Tags:** `Array` `Bit Manipulation`
+
+---
 ## [2026-08-14] #3090 — [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 72.7%  
