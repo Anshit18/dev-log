@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-16] #2029 — [Stone Game IX](https://leetcode.com/problems/stone-game-ix/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 45.7%  
+**Tags:** `Array` `Math` `Greedy` `Minimax` `Counting` `Game Theory` `Nim Game` `Zero-Sum Game`
+
+---
 ## [2026-08-15] #3702 — [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 46.4%  
