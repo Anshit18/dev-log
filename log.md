@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-17] #1563 — [Stone Game V](https://leetcode.com/problems/stone-game-v/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 51.2%  
+**Tags:** `Array` `Math` `Dynamic Programming` `Game Theory`
+
+---
 ## [2026-08-16] #2029 — [Stone Game IX](https://leetcode.com/problems/stone-game-ix/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 45.7%  
