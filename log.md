@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-18] #3471 — [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 43.3%  
+**Tags:** `Array` `Hash Table`
+
+---
 ## [2026-08-17] #1563 — [Stone Game V](https://leetcode.com/problems/stone-game-v/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 51.2%  
