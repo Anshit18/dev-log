@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-19] #1386 — [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 49.7%  
+**Tags:** `Array` `Hash Table` `Greedy` `Bit Manipulation`
+
+---
 ## [2026-08-18] #3471 — [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 43.3%  
