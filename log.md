@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-20] #3069 — [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 79.6%  
+**Tags:** `Array` `Simulation`
+
+---
 ## [2026-08-19] #1386 — [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 49.7%  
