@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-21] #3116 — [Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 34.2%  
+**Tags:** `Array` `Math` `Binary Search` `Bit Manipulation` `Combinatorics` `Number Theory`
+
+---
 ## [2026-08-20] #3069 — [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 79.6%  
