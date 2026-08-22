@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-22] #3622 — [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 72.5%  
+**Tags:** `Math`
+
+---
 ## [2026-08-21] #3116 — [Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 34.2%  
