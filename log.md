@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-23] #1927 — [Sum Game](https://leetcode.com/problems/sum-game/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 58.1%  
+**Tags:** `Math` `String` `Greedy` `Game Theory`
+
+---
 ## [2026-08-22] #3622 — [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 72.5%  
