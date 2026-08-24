@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-24] #1872 — [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 67.6%  
+**Tags:** `Array` `Math` `Dynamic Programming` `Minimax` `Prefix Sum` `Game Theory` `Zero-Sum Game`
+
+---
 ## [2026-08-23] #1927 — [Sum Game](https://leetcode.com/problems/sum-game/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 58.1%  
