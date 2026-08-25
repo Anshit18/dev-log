@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-25] #3718 — [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 68.3%  
+**Tags:** `Array` `Hash Table`
+
+---
 ## [2026-08-24] #1872 — [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 67.6%  
