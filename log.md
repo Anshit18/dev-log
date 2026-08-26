@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-26] #2904 — [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 51.1%  
+**Tags:** `String` `Sliding Window`
+
+---
 ## [2026-08-25] #3718 — [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 68.3%  
