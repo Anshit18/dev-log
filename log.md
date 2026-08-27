@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-27] #3720 — [Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 46.6%  
+**Tags:** `Hash Table` `String` `Greedy` `Counting` `Enumeration`
+
+---
 ## [2026-08-26] #2904 — [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 51.1%  
