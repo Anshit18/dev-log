@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-28] #3734 — [Lexicographically Smallest Palindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 55.0%  
+**Tags:** `Two Pointers` `String` `Enumeration`
+
+---
 ## [2026-08-27] #3720 — [Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 46.6%  
