@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-29] #2948 — [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 63.5%  
+**Tags:** `Array` `Union-Find` `Sorting`
+
+---
 ## [2026-08-28] #3734 — [Lexicographically Smallest Palindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 55.0%  
