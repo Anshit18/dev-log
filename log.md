@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-30] #2091 — [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 64.2%  
+**Tags:** `Array` `Greedy`
+
+---
 ## [2026-08-29] #2948 — [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 63.5%  
