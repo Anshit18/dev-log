@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-08-31] #2058 — [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 71.7%  
+**Tags:** `Linked List`
+
+---
 ## [2026-08-30] #2091 — [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 64.2%  
