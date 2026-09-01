@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-01] #3568 — [Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 48.6%  
+**Tags:** `Array` `Hash Table` `Bit Manipulation` `Breadth-First Search` `Matrix`
+
+---
 ## [2026-08-31] #2058 — [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 71.7%  
