@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-02] #3875 — [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 83.6%  
+**Tags:** `Array` `Math`
+
+---
 ## [2026-09-01] #3568 — [Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 48.6%  
