@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-03] #3876 — [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 62.2%  
+**Tags:** `Array` `Math`
+
+---
 ## [2026-09-02] #3875 — [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 83.6%  
