@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-04] #3903 — [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 75.0%  
+**Tags:** `Array` `Prefix Sum`
+
+---
 ## [2026-09-03] #3876 — [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 62.2%  
