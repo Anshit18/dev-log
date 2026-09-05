@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-05] #3904 — [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 75.1%  
+**Tags:** `Array` `Prefix Sum`
+
+---
 ## [2026-09-04] #3903 — [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 75.0%  
