@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-06] #115 — [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 53.3%  
+**Tags:** `String` `Dynamic Programming`
+
+---
 ## [2026-09-05] #3904 — [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 75.1%  
