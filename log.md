@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-07] #940 — [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 51.5%  
+**Tags:** `String` `Dynamic Programming`
+
+---
 ## [2026-09-06] #115 — [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 53.3%  
