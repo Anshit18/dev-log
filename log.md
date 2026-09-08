@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-08] #3870 — [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 76.0%  
+**Tags:** `Math`
+
+---
 ## [2026-09-07] #940 — [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 51.5%  
