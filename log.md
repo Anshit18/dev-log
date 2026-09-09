@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-09] #3871 — [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 46.1%  
+**Tags:** `Math`
+
+---
 ## [2026-09-08] #3870 — [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 76.0%  
