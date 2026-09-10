@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-10] #2265 — [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 87.9%  
+**Tags:** `Tree` `Depth-First Search` `Binary Tree`
+
+---
 ## [2026-09-09] #3871 — [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 46.1%  
