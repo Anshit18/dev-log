@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-11] #3483 — [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 76.7%  
+**Tags:** `Array` `Hash Table` `Recursion` `Enumeration`
+
+---
 ## [2026-09-10] #2265 — [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 87.9%  
