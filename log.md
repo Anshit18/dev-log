@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-12] #3414 — [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 58.7%  
+**Tags:** `Array` `Binary Search` `Dynamic Programming` `Sorting`
+
+---
 ## [2026-09-11] #3483 — [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 76.7%  
