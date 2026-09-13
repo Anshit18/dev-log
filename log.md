@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-13] #835 — [Image Overlap](https://leetcode.com/problems/image-overlap/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 67.5%  
+**Tags:** `Array` `Matrix`
+
+---
 ## [2026-09-12] #3414 — [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 58.7%  
