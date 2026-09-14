@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-14] #836 — [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 50.5%  
+**Tags:** `Math` `Geometry`
+
+---
 ## [2026-09-13] #835 — [Image Overlap](https://leetcode.com/problems/image-overlap/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 67.5%  
