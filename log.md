@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-15] #2472 — [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 55.3%  
+**Tags:** `Two Pointers` `String` `Dynamic Programming` `Greedy`
+
+---
 ## [2026-09-14] #836 — [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 50.5%  
