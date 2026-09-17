@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-17] #1477 — [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 43.8%  
+**Tags:** `Array` `Hash Table` `Binary Search` `Dynamic Programming` `Sliding Window`
+
+---
 ## [2026-09-16] #1621 — [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 63.6%  
