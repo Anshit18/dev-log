@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-18] #1520 — [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 56.3%  
+**Tags:** `Hash Table` `String` `Greedy` `Sorting`
+
+---
 ## [2026-09-17] #1477 — [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 43.8%  
