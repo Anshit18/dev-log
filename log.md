@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-19] #1401 — [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 61.6%  
+**Tags:** `Math` `Geometry`
+
+---
 ## [2026-09-18] #1520 — [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 56.3%  
