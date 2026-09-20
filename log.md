@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-20] #3498 — [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 91.1%  
+**Tags:** `String` `Simulation`
+
+---
 ## [2026-09-19] #1401 — [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 61.6%  
