@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-21] #3524 — [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 59.4%  
+**Tags:** `Array` `Math` `Dynamic Programming`
+
+---
 ## [2026-09-20] #3498 — [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 91.1%  
