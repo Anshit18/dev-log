@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-22] #3525 — [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 63.8%  
+**Tags:** `Array` `Math` `Segment Tree`
+
+---
 ## [2026-09-21] #3524 — [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 59.4%  
