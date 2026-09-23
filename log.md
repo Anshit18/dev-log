@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-23] #1658 — [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 42.9%  
+**Tags:** `Array` `Hash Table` `Binary Search` `Sliding Window` `Prefix Sum`
+
+---
 ## [2026-09-22] #3525 — [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 63.8%  
