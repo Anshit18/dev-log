@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-25] #1096 — [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 73.9%  
+**Tags:** `Hash Table` `String` `Backtracking` `Stack` `Breadth-First Search` `Sorting`
+
+---
 ## [2026-09-24] #3550 — [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 83.8%  
