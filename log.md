@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-26] #1807 — [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 77.9%  
+**Tags:** `Array` `Hash Table` `String`
+
+---
 ## [2026-09-25] #1096 — [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 73.9%  
