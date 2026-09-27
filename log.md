@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-27] #1190 — [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 73.9%  
+**Tags:** `String` `Stack` `Bracket Sequences`
+
+---
 ## [2026-09-26] #1807 — [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 77.9%  
