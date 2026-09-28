@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-28] #1614 — [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 85.8%  
+**Tags:** `String` `Stack` `Bracket Sequences`
+
+---
 ## [2026-09-27] #1190 — [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 73.9%  
