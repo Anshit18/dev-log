@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-09-29] #2267 — [ Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 53.0%  
+**Tags:** `Array` `Dynamic Programming` `Matrix` `Bracket Sequences`
+
+---
 ## [2026-09-28] #1614 — [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 85.8%  
