@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-01] #20 — [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 45.1%  
+**Tags:** `String` `Stack` `Bracket Sequences`
+
+---
 ## [2026-09-30] #1111 — [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 79.9%  
