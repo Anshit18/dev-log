@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-02] #22 — [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 79.5%  
+**Tags:** `String` `Dynamic Programming` `Backtracking` `Bracket Sequences`
+
+---
 ## [2026-10-01] #20 — [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 45.1%  
