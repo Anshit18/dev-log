@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-04] #678 — [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 41.8%  
+**Tags:** `String` `Dynamic Programming` `Stack` `Greedy` `Bracket Sequences`
+
+---
 ## [2026-10-03] #32 — [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 40.5%  
