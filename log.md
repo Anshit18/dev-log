@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-05] #856 — [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 64.8%  
+**Tags:** `String` `Stack` `Bracket Sequences`
+
+---
 ## [2026-10-04] #678 — [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 41.8%  
