@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-06] #921 — [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 74.2%  
+**Tags:** `String` `Stack` `Greedy` `Bracket Sequences`
+
+---
 ## [2026-10-05] #856 — [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 64.8%  
