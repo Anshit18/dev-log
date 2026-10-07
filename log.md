@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-07] #301 — [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 51.4%  
+**Tags:** `String` `Backtracking` `Breadth-First Search`
+
+---
 ## [2026-10-06] #921 — [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 74.2%  
