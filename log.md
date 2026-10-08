@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-08] #1021 — [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 88.1%  
+**Tags:** `String` `Stack` `Bracket Sequences`
+
+---
 ## [2026-10-07] #301 — [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 51.4%  
