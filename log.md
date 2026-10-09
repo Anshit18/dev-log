@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-09] #1541 — [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 58.7%  
+**Tags:** `String` `Stack` `Greedy` `Bracket Sequences`
+
+---
 ## [2026-10-08] #1021 — [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 88.1%  
