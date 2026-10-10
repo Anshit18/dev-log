@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-10] #2333 — [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 37.5%  
+**Tags:** `Array` `Binary Search` `Greedy` `Sorting` `Heap (Priority Queue)`
+
+---
 ## [2026-10-09] #1541 — [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 58.7%  
