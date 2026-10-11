@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-11] #2778 — [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 86.0%  
+**Tags:** `Array` `Enumeration`
+
+---
 ## [2026-10-10] #2333 — [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 37.5%  
