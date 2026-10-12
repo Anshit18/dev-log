@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-12] #2897 — [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 71.3%  
+**Tags:** `Array` `Hash Table` `Greedy` `Bit Manipulation`
+
+---
 ## [2026-10-11] #2778 — [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 86.0%  
