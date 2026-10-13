@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-13] #3727 — [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 74.0%  
+**Tags:** `Array` `Greedy` `Sorting`
+
+---
 ## [2026-10-12] #2897 — [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 71.3%  
