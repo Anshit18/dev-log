@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-14] #3723 — [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 68.4%  
+**Tags:** `Math` `Greedy`
+
+---
 ## [2026-10-13] #3727 — [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 74.0%  
