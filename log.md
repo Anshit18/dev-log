@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-15] #2913 — [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 86.2%  
+**Tags:** `Array` `Hash Table` `Binary Indexed Tree` `Segment Tree`
+
+---
 ## [2026-10-14] #3723 — [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 68.4%  
