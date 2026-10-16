@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-16] #2916 — [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 45.6%  
+**Tags:** `Array` `Hash Table` `Binary Indexed Tree` `Segment Tree`
+
+---
 ## [2026-10-15] #2913 — [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 86.2%  
