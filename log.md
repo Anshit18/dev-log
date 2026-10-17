@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-17] #3551 — [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 61.2%  
+**Tags:** `Array` `Hash Table` `Sorting`
+
+---
 ## [2026-10-16] #2916 — [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 45.6%  
