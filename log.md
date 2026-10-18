@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-18] #1569 — [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 60.7%  
+**Tags:** `Array` `Math` `Divide and Conquer` `Dynamic Programming` `Tree` `Union-Find` `Binary Search Tree` `Memoization` `Combinatorics` `Binary Tree` `Fermat's Little Theorem`
+
+---
 ## [2026-10-17] #3551 — [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 61.2%  
