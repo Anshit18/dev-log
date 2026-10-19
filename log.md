@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-19] #2089 — [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 81.1%  
+**Tags:** `Array` `Binary Search` `Sorting`
+
+---
 ## [2026-10-18] #1569 — [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 60.7%  
