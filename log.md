@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-20] #3886 — [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 49.1%  
+**Tags:** `Array` `Math` `Sorting` `Enumeration`
+
+---
 ## [2026-10-19] #2089 — [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 81.1%  
