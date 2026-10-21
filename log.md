@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-21] #3863 — [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 33.3%  
+**Tags:** `String`
+
+---
 ## [2026-10-20] #3886 — [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 49.1%  
