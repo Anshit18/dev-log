@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-22] #3942 — [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 44.8%  
+**Tags:** `Array`
+
+---
 ## [2026-10-21] #3863 — [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 33.3%  
