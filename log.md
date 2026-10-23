@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-23] #3644 — [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 50.4%  
+**Tags:** `Array` `Bit Manipulation`
+
+---
 ## [2026-10-22] #3942 — [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 44.8%  
