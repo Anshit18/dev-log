@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-28] #3882 — [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 52.7%  
+**Tags:** `Array` `Dynamic Programming` `Bit Manipulation` `Matrix`
+
+---
 ## [2026-10-27] #3963 — [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 84.2%  
