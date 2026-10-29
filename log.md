@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-29] #3841 — [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 67.2%  
+**Tags:** `Array` `String` `Divide and Conquer` `Bit Manipulation` `Tree` `Depth-First Search` `Binary Indexed Tree` `Segment Tree`
+
+---
 ## [2026-10-28] #3882 — [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 52.7%  
