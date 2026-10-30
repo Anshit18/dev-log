@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-30] #3970 — [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 58.4%  
+**Tags:** `String` `Graph Theory` `Heap (Priority Queue)` `Shortest Path`
+
+---
 ## [2026-10-29] #3841 — [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 67.2%  
