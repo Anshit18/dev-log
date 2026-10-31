@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-10-31] #3665 — [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 62.3%  
+**Tags:** `Array` `Dynamic Programming` `Matrix`
+
+---
 ## [2026-10-30] #3970 — [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 58.4%  
