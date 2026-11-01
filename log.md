@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-01] #453 — [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 61.9%  
+**Tags:** `Array` `Math`
+
+---
 ## [2026-10-31] #3665 — [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 62.3%  
