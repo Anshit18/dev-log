@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-03] #3736 — [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 88.3%  
+**Tags:** `Array` `Math`
+
+---
 ## [2026-11-02] #462 — [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 65.4%  
