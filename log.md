@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-05] #1385 — [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 76.7%  
+**Tags:** `Array` `Two Pointers` `Binary Search` `Sorting`
+
+---
 ## [2026-11-04] #3505 — [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 59.5%  
