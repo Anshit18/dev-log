@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-06] #2747 — [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 53.1%  
+**Tags:** `Array` `Hash Table` `Sliding Window` `Sorting`
+
+---
 ## [2026-11-05] #1385 — [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 76.7%  
