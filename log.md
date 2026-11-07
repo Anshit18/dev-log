@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-07] #1882 — [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 48.7%  
+**Tags:** `Array` `Heap (Priority Queue)`
+
+---
 ## [2026-11-06] #2747 — [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 53.1%  
