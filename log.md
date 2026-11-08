@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-08] #1267 — [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 75.6%  
+**Tags:** `Array` `Depth-First Search` `Breadth-First Search` `Union-Find` `Matrix` `Counting`
+
+---
 ## [2026-11-07] #1882 — [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 48.7%  
