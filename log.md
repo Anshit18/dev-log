@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-09] #1606 — [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 60.5%  
+**Tags:** `Array` `Heap (Priority Queue)` `Simulation` `Ordered Set`
+
+---
 ## [2026-11-08] #1267 — [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 75.6%  
