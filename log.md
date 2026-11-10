@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-10] #3693 — [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 73.0%  
+**Tags:** `Array` `Dynamic Programming`
+
+---
 ## [2026-11-09] #1606 — [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 60.5%  
