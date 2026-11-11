@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-11] #3789 — [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 49.6%  
+**Tags:** `Math` `Greedy`
+
+---
 ## [2026-11-10] #3693 — [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 73.0%  
