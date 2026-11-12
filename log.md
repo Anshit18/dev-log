@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-12] #3105 — [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 67.1%  
+**Tags:** `Array`
+
+---
 ## [2026-11-11] #3789 — [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 49.6%  
