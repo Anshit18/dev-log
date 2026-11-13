@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-13] #3420 — [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 58.8%  
+**Tags:** `Array` `Stack` `Segment Tree` `Queue` `Sliding Window` `Monotonic Stack` `Monotonic Queue`
+
+---
 ## [2026-11-12] #3105 — [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 67.1%  
