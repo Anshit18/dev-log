@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-14] #3364 — [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 55.5%  
+**Tags:** `Array` `Sliding Window` `Prefix Sum`
+
+---
 ## [2026-11-13] #3420 — [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 58.8%  
