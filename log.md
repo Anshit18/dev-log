@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-15] #1524 — [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 57.7%  
+**Tags:** `Array` `Math` `Dynamic Programming` `Prefix Sum`
+
+---
 ## [2026-11-14] #3364 — [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 55.5%  
