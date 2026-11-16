@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-16] #2243 — [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 76.2%  
+**Tags:** `String` `Simulation`
+
+---
 ## [2026-11-15] #1524 — [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 57.7%  
