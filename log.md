@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-17] #2911 — [Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 70.2%  
+**Tags:** `Two Pointers` `String` `Dynamic Programming`
+
+---
 ## [2026-11-16] #2243 — [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 76.2%  
