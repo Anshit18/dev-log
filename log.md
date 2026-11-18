@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-18] #2914 — [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 78.7%  
+**Tags:** `String`
+
+---
 ## [2026-11-17] #2911 — [Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 70.2%  
