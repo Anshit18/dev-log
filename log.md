@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-19] #2567 — [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 64.5%  
+**Tags:** `Array` `Greedy` `Sorting`
+
+---
 ## [2026-11-18] #2914 — [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 78.7%  
