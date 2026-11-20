@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-20] #3041 — [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 57.3%  
+**Tags:** `Array` `Dynamic Programming` `Sorting`
+
+---
 ## [2026-11-19] #2567 — [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 64.5%  
