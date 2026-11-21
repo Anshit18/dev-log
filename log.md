@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-21] #3331 — [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 67.3%  
+**Tags:** `Array` `Hash Table` `String` `Tree` `Depth-First Search`
+
+---
 ## [2026-11-20] #3041 — [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 57.3%  
