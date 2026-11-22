@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-22] #2124 — [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 77.1%  
+**Tags:** `String`
+
+---
 ## [2026-11-21] #3331 — [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 67.3%  
