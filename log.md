@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-23] #1352 — [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 66.2%  
+**Tags:** `Array` `Math` `Design` `Data Stream` `Prefix Sum`
+
+---
 ## [2026-11-22] #2124 — [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 77.1%  
