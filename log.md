@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-24] #3411 — [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 59.7%  
+**Tags:** `Array` `Math` `Sliding Window` `Enumeration` `Number Theory`
+
+---
 ## [2026-11-23] #1352 — [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)
 
 **Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 66.2%  
