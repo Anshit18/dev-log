@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-25] #3934 — [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/)
+
+**Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 60.9%  
+**Tags:** `Array` `Hash Table` `Binary Search` `Rolling Hash` `Suffix Array` `Hash Function`
+
+---
 ## [2026-11-24] #3411 — [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 59.7%  
