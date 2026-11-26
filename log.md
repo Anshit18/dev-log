@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-26] #3360 — [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/)
+
+**Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 54.7%  
+**Tags:** `Math` `Simulation`
+
+---
 ## [2026-11-25] #3934 — [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/)
 
 **Difficulty:** 🔴 Hard &nbsp;|&nbsp; **Acceptance:** 60.9%  
