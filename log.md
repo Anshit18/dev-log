@@ -5,6 +5,12 @@
 ---
 
 <!-- ENTRIES START -->
+## [2026-11-27] #3946 — [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/)
+
+**Difficulty:** 🟡 Medium &nbsp;|&nbsp; **Acceptance:** 54.7%  
+**Tags:** `Array` `Dynamic Programming` `Greedy`
+
+---
 ## [2026-11-26] #3360 — [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/)
 
 **Difficulty:** 🟢 Easy &nbsp;|&nbsp; **Acceptance:** 54.7%  
